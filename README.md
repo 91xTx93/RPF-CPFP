@@ -1,0 +1,1 @@
+This was my very first presentation, which focused on the 'Replace by Fee' and 'Child Pays for Parent' features. I think that the presentation has a lot of room for improvement, and it should be much shorter. The presentation was shown at Dublin Bitcoiners in 2023. You can't imagine how much I was shaking and mumbling with my broken English.
